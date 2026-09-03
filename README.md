@@ -9,9 +9,6 @@
   no trophy cases, no badge walls, no "connect with me" icon rows. The restraint
   is the signal — this profile is read by people who can tell the difference.
 -->
-<img width="667" height="526" alt="Laurence Igbokwe — backend and AI infrastructure enginee" src="https://github.com/user-attachments/assets/55acea3d-c9f4-4a77-a465-288567d036a0" />
-
-
 
 ### Laurence Igbokwe
 
