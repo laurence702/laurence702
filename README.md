@@ -10,6 +10,8 @@
   is the signal — this profile is read by people who can tell the difference.
 -->
 
+<img src="hero.png" alt="Laurence Igbokwe — backend and AI infrastructure engineer" width="100%">
+
 ### Laurence Igbokwe
 
 Backend engineer, eight years. I work on the layer between an LLM and a product that has real users — provider abstraction, retrieval, cost accounting, and the reliability plumbing that decides whether an AI feature survives contact with traffic.
@@ -20,7 +22,7 @@ Lagos, UTC+1. Remote. Full overlap with European teams, mornings with US East.
 
 ### What I actually work on
 
-**Multi-provider LLM infrastructure.** A single interface over OpenAI, Anthropic and Gemini with per-provider streaming, unified model catalogues, and cross-provider cost normalization so token usage from three vendors resolves to one comparable number. Built as sole backend architect on an AI app-builder platform.
+**Testable AI systems.** A mock LLM provider and fixture spec so a generation pipeline can be tested deterministically — no live API calls, no spend, runs in CI. Plus an AI build-failure recovery loop: fetch the failed build's logs, extract the actionable error, patch the source with full-tree context, rebuild, bounded at three cycles.
 
 **Schema evolution you can trust.** Spec-to-SQL migration generation with column-level diffing, severity-tagged destructive-change warnings (table drops, column drops, narrowing type changes), up/down rollbacks, and TypeScript types generated from the live schema.
 
