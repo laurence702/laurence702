@@ -10,7 +10,7 @@
   is the signal — this profile is read by people who can tell the difference.
 -->
 
-<img src="hero.png" alt="Laurence Igbokwe — backend and AI infrastructure engineer" width="100%">
+<!-- <img src="hero.png" alt="Laurence Igbokwe — backend and AI infrastructure engineer" width="100%"> -->
 
 ### Laurence Igbokwe
 
