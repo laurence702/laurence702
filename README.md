@@ -14,7 +14,7 @@
 
 ### Laurence Igbokwe
 
-Backend engineer, eight years. I work on the layer between an LLM and a product that has real users — provider abstraction, retrieval, cost accounting, and the reliability plumbing that decides whether an AI feature survives contact with traffic.
+Backend engineer, eight years. I work on the layer between an LLM and a product that has real users provider abstraction, retrieval, cost accounting, and the reliability plumbing that decides whether an AI feature survives contact with traffic.
 
 Lagos, UTC+1. Remote. Full overlap with European teams, mornings with US East.
 
